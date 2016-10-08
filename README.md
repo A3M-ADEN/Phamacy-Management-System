@@ -10,9 +10,10 @@ University of Aden
 
 
 
-Download Pharmacy project to your pc
+Download (Pharmacy.rar) project to your pc
  
 SQL SERVER
+
 1:copy and paste the T-sql in sql server query
 
 
@@ -21,11 +22,11 @@ VISUAL STUDIO
 
 2: first login
 
-User id :101
+User ID :101
 
 Password :101
 
-2: at lease you must insert one  new company ,one delagate ,one new items 
+2: At lease you must insert one  new company ,one delagate ,one new items 
 
 
 Any help contact to us A3M@GMAIL.COM
