@@ -7,7 +7,7 @@ A3M
 
 University of Aden
 
-�http://adenengfaculty.com/�
+http://adenengfaculty.com/
 
 ****************************
 
