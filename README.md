@@ -7,28 +7,33 @@ A3M
 
 University of Aden
 
-http://adenengfaculty.com/
+http://adeneng-faculty.edu.ye/
 
 ****************************
 
+READ CAREFULLY THIS LINES
+
+
 
 Download (Pharmacy.rar) project to your pc
- 
- * SQL SERVER
+OR 
+Download The newer verson (Phamacy Management System.zip) project to your pc
+ *****************************************************************
+1: * Install crystal report
+2:* SQL SERVER
 
-1: Copy and paste the T-sql in sql server query
+ Copy and paste the T-sql.text in sql server query and excute
 
 
- * VISUAL STUDIO
+3: * VISUAL STUDIO
 
-
-2: First login
+ First login
 
 User ID :101
 
 Password :101
 
-2: At lease you must insert one  new company ,one delagate ,one new item
+ At lease you must insert one  new company ,one delagate ,one new item
 
 
 Any help contact to us A3M.Aden@GMAIL.COM
