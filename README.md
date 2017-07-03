@@ -16,8 +16,10 @@ READ CAREFULLY THIS LINES
 
 
 Download (Pharmacy.rar) project to your pc
+
 OR 
-Download The newer verson (Phamacy Management System.zip) project to your pc
+
+Download The newer version (Phamacy Management System.rar) project to your pc
  *****************************************************************
 1: * Install crystal report
 2:* SQL SERVER
